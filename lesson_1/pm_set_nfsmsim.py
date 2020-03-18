@@ -53,8 +53,8 @@ def nfsmsim(string, current, edges, accepting):
 # This problem includes some test cases to help you tell if you are on
 # the right track. You may want to make your own additional tests as well.
 
-print "Test case 1 passed: " + str(nfsmsim("abc", 1, edges, accepting) == True) 
-print "Test case 2 passed: " + str(nfsmsim("aaa", 1, edges, accepting) == True) 
-print "Test case 3 passed: " + str(nfsmsim("abbbc", 1, edges, accepting) == True) 
-print "Test case 4 passed: " + str(nfsmsim("aabc", 1, edges, accepting) == False) 
-print "Test case 5 passed: " + str(nfsmsim("", 1, edges, accepting) == False) 
+# print "Test case 1 passed: " + str(nfsmsim("abc", 1, edges, accepting) == True) 
+# print "Test case 2 passed: " + str(nfsmsim("aaa", 1, edges, accepting) == True) 
+# print "Test case 3 passed: " + str(nfsmsim("abbbc", 1, edges, accepting) == True) 
+# print "Test case 4 passed: " + str(nfsmsim("aabc", 1, edges, accepting) == False) 
+# print "Test case 5 passed: " + str(nfsmsim("", 1, edges, accepting) == False) 
